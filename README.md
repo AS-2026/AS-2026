@@ -16,4 +16,4 @@ Undergraduate in Computer Science & Engineering specializing in **Quantum Comput
 ---
 
 ### 📬 Connect
-* Email: [aasthasucheta@gmail.com]
+* Email: [aasthasucheta11@gmail.com]

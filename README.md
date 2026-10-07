@@ -11,7 +11,7 @@ Undergraduate in Computer Science & Engineering specializing in **Quantum Comput
 ---
 
 ### 🚀 Highlighted Work
-* **[Quantum Circuit Simulator]():** Matrix-based quantum circuit and statevector simulator implemented from scratch using NumPy and SciPy.
+* **[Quantum Circuit Simulator](https://github.com/AS-2026/QuantumCircuitSimulator):** Matrix-based quantum circuit and statevector simulator implemented from scratch using NumPy and SciPy.
 
 ---
 
